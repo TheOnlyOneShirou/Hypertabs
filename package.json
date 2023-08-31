@@ -1,6 +1,6 @@
   "version": "1.0.0",
-  "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
-  "type": "module",
+  "description": "UnofficialHypertabseasydeploymentversionwithTompHTTPbareserverincluded.",
+ "type": "module",
   "scripts": {
     "start": "node src/index.js"
   },
